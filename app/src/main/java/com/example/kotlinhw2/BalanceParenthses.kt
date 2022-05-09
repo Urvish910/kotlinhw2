@@ -7,7 +7,7 @@ class BalanceParenthses {
     fun checkifbalance(test:String): Boolean {
         var stack: Stack<Any?> = Stack<Any?>()
         var inScope: Char = ' '
-        for(i in test.indices)
+        for(i in test.indices)//test here
         {
             inScope = test[i]
             if(inScope == '(' || inScope == '[' || inScope == '{')
