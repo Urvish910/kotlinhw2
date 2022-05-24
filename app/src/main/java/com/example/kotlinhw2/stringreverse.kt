@@ -5,7 +5,7 @@ import java.util.*
 class stringreverse {
 
     fun reverse(a:String)
-    {// testingh is this has been changed or not
+    {// testingh is this has been changed or notv
         var stack: Stack<String> = Stack<String>()
         var reName: String =" "
         for(i in 0..a.length-1)
