@@ -5,10 +5,7 @@ import java.util.*
 // trying to create a pull request
 
 // this is a pull request one
-// thisd asd f
-=======
-
-// this pull i sform sub brancg to main pull branch
+// thisd asd f ok 1
 class BalanceParenthses {
 
     fun checkifbalance(test:String): Boolean {
