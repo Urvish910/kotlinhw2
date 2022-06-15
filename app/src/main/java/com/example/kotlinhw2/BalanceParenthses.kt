@@ -1,7 +1,8 @@
 package com.example.kotlinhw2
 
 import java.util.*
-
+// this
+// is merger request
 class BalanceParenthses {
 
     fun checkifbalance(test:String): Boolean {
