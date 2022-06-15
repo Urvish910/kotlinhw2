@@ -1,7 +1,7 @@
 package com.example.kotlinhw2
 
 import java.util.*
-// 6/14 third try to new branch
+
 class BalanceParenthses {
 
     fun checkifbalance(test:String): Boolean {
